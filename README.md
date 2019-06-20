@@ -4,7 +4,7 @@ Assignment 3 from SYST24444 - Mobile Web Application Development at Sheridan Col
 Written using Visual Studio Code and AngularJS.
 March 25, 2019.
 
-Published version available at: https://s-mck.github.io/mckisara-a3/
+Published at: https://s-mck.github.io/mckisara-a3/
 
 Requirements for this assignment include:
 
